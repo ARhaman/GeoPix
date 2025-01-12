@@ -33,9 +33,8 @@ The **GeoPix Framework** leverages Generative Adversarial Networks (GANs), speci
 - **Application in Reservoir Characterization**: The model aids in better understanding subsurface formations, which is critical for hydrocarbon exploration and production.
 
 ## Repository Structure
-mkdir -p GeoPix/{Figuers,Examples_of_Results,model,data}
-touch GeoPix/README.md GeoPix/requirements.txt
 
+```bash
 GeoPix/
 ├── Figuers/                 # Contains architecture and framework images
 ├── Examples_of_Results/     # Example output images
@@ -43,6 +42,7 @@ GeoPix/
 ├── data/                    # Training and testing datasets
 ├── README.md                # Project overview and documentation
 └── requirements.txt         # Python dependencies
+```
 
 
 ## How to Run
