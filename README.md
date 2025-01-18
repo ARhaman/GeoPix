@@ -23,7 +23,7 @@ The **GeoPix Framework** leverages Generative Adversarial Networks (GANs), speci
 
 ### **High-level Architecture of the Proposed GeoPix Framework for Subsurface Reservoir Characterization**
 
-![GeoPix Figure 1](https://raw.githubusercontent.com/ARhaman/GeoPix/main/Figuers/GeoPix_Figure%201.png)
+![GeoPix Figure 1](https://raw.githubusercontent.com/ARhaman/GeoPix/main/Figuers/Figuers/Modified_GeoPix_Figure1.png)
 
 ---
 
