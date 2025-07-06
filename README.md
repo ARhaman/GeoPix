@@ -10,7 +10,7 @@ The **GeoPix Framework** leverages Generative Adversarial Networks (GANs), speci
 - The U-Net structure allows for high-quality image-to-image translation by combining convolutional layers with skip connections.
 
 ### Discriminator
-- A **PatchGAN-based convolutional network** used to evaluate the realism of the generated property maps.
+- A **PatchGAN-based convolutional network** is used to evaluate the realism of the generated property maps.
 - It operates on image patches to ensure that both global structure and local texture are realistic.
 
 ---
@@ -31,13 +31,13 @@ The **GeoPix Framework** leverages Generative Adversarial Networks (GANs), speci
 ## Key Features
 - **Data-Driven Modeling**: Utilizes machine learning models to predict rock properties directly from geological facies data.
 - **Robust Performance**: The combination of U-Net and PatchGAN improves the generation of high-resolution, geologically plausible property maps.
-- **Application in Reservoir Characterization**: The model aids in better understanding subsurface formations, which is critical for hydrocarbon exploration and production.
+- **Application in Reservoir Characterization**: The model facilitates a deeper understanding of subsurface formations, which is crucial for hydrocarbon exploration and production.
 
 ## Repository Structure
 
 ```bash
 GeoPix/
-├── Figuers/                 # Contains architecture and framework images
+├── Figures/                 # Contains architecture and framework images
 ├── Examples_of_Results/     # Example output images
 ├── model/                   # GAN model architecture files
 ├── data/                    # Training and testing datasets
@@ -70,6 +70,6 @@ Abdulrahman Al-Fakih
 Ph.D. Researcher | Geophysics
 King Fahd University of Petroleum and Minerals (KFUPM)
 📞 +966 500916367
-📧 g202103050@kfupm.edu.sa
+📧 alja2014ser@gmail.com
 
 
